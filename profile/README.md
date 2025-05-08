@@ -14,7 +14,7 @@ This organization is dedicated to managing and showcasing my hackathon projects,
 - **Community Engagement:** Encouraging collaboration, feedback, and shared growth.
 
 ## Maintainer
-[Your GitHub Profile](https://github.com/nithinmohantk)
+[@nithinmohantk](https://github.com/nithinmohantk)
 
 Feel free to explore the repositories, contribute, or reach out to collaborate! Together, let's make hackathons more innovative and inclusive.
 
